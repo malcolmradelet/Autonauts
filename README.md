@@ -8,3 +8,15 @@ They harness whatever natural resources are available; they learn fast and can e
 <image src="Media/Autonauts (1).gif" width="175px"/><image src="Media/Autonauts (2).gif" width="175px"/><image src="Media/Autonauts (3).gif" width="175px"/><image src="Media/Autonauts (4).gif" width="175px"/><image src="Media/Autonauts (5).gif" width="175px"/><image src="Media/Autonauts (6).gif" width="175px"/><image src="Media/Autonauts (7).gif" width="175px"/><image src="Media/Autonauts (8).gif" width="175px"/>
 
 <image src="Media/Autonauts (1).png" width="175px"/><image src="Media/Autonauts (2).png" width="175px"/><image src="Media/Autonauts (3).png" width="175px"/><image src="Media/Autonauts (4).png" width="175px"/><image src="Media/Autonauts (5).png" width="175px"/>
+
+# Download
+
+Download Now Name your own price
+Click download now to get access to the following files:
+
+Autonauts_Version_2_32-bit.zip
+26 MB
+Autonauts_Version_2_64-bit.zip
+28 MB
+Autonauts_Version_2.zip
+38 MB
