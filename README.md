@@ -14,9 +14,6 @@ They harness whatever natural resources are available; they learn fast and can e
 Download Now Name your own price
 Click download now to get access to the following files:
 
-Autonauts_Version_2_32-bit.zip
-26 MB
-Autonauts_Version_2_64-bit.zip
-28 MB
-Autonauts_Version_2.zip
-38 MB
+* Autonauts_Version_2_32-bit.zip - 26 MB
+* Autonauts_Version_2_64-bit.zip - 28 MB
+* Autonauts_Version_2.zip - 38 MB
