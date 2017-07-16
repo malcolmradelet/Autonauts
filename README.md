@@ -6,3 +6,5 @@ They harness whatever natural resources are available; they learn fast and can e
 
 # Screenshots
 <image src="Media/Autonauts (1).gif" width="175px"/><image src="Media/Autonauts (2).gif" width="175px"/><image src="Media/Autonauts (3).gif" width="175px"/><image src="Media/Autonauts (4).gif" width="175px"/><image src="Media/Autonauts (5).gif" width="175px"/><image src="Media/Autonauts (6).gif" width="175px"/><image src="Media/Autonauts (7).gif" width="175px"/><image src="Media/Autonauts (8).gif" width="175px"/>
+
+<image src="Media/Autonauts (1).png" width="175px"/><image src="Media/Autonauts (2).png" width="175px"/><image src="Media/Autonauts (3).png" width="175px"/><image src="Media/Autonauts (4).png" width="175px"/><image src="Media/Autonauts (5).png" width="175px"/><image src="Media/Autonauts (6).png" width="175px"/>
